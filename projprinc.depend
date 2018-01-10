@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1447438921 source:c:\users\mariateresa\desktop\proj\projprinc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"funcoes.h"
+
+1447438815 c:\users\mariateresa\desktop\proj\projprinc\funcoes.h
+
+1447439188 source:c:\users\mariateresa\desktop\proj\projprinc\funcoes.c
+	<allegro.h>
+	<stdio.h>
+	"funcoes.h"
+
+1447902697 source:c:\users\adil\skydrive\utfpr\engenharia\1 periodo\fp\proj\projprinc\funcoes.c
+	<allegro.h>
+	<stdio.h>
+	"funcoes.h"
+
+1447902528 c:\users\adil\skydrive\utfpr\engenharia\1 periodo\fp\proj\projprinc\funcoes.h
+
+1447897947 source:c:\users\adil\skydrive\utfpr\engenharia\1 periodo\fp\proj\projprinc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"funcoes.h"
+
+1448038701 source:c:\users\mariateresa\documents\utfpr\eng\fp\proj\funcoes.c
+	<allegro.h>
+	<stdio.h>
+	"funcoes.h"
+
+1448043241 c:\users\mariateresa\documents\utfpr\eng\fp\proj\funcoes.h
+
+1448038689 source:c:\users\mariateresa\documents\utfpr\eng\fp\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"funcoes.h"
+
+1448513494 source:c:\users\adil\downloads\proj20.11\proj\funcoes.c
+	<allegro.h>
+	<stdio.h>
+	"funcoes.h"
+
+1448513030 c:\users\adil\downloads\proj20.11\proj\funcoes.h
+
+1448038689 source:c:\users\adil\downloads\proj20.11\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"funcoes.h"
+
+1448038689 source:c:\users\mariateresa\downloads\proj26.11\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"funcoes.h"
+
+1448559211 c:\users\mariateresa\downloads\proj26.11\proj\funcoes.h
+
+1448557642 source:c:\users\mariateresa\downloads\proj26.11\proj\funcoes.c
+	<allegro.h>
+	<stdio.h>
+	"funcoes.h"
+
+1448648815 source:c:\users\adil\dropbox\programacao\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"funcoes.h"
+
+1448643924 c:\users\adil\dropbox\programacao\proj\funcoes.h
+
+1449104414 source:c:\users\adil\dropbox\programacao\proj\funcoes.c
+	<allegro.h>
+	<stdio.h>
+	"funcoes.h"
+
+1448038689 source:c:\users\mariateresa\dropbox\programacao\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"funcoes.h"
+
+1448562290 c:\users\mariateresa\dropbox\programacao\proj\funcoes.h
+
+1448641067 source:c:\users\mariateresa\dropbox\programacao\proj\funcoes.c
+	<allegro.h>
+	<stdio.h>
+	"funcoes.h"
+
+1448648815 source:c:\users\mariateresa\desktop\projeto\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"funcoes.h"
+
+1448643924 c:\users\mariateresa\desktop\projeto\proj\funcoes.h
+
+1448648448 source:c:\users\mariateresa\desktop\projeto\proj\funcoes.c
+	<allegro.h>
+	<stdio.h>
+	"funcoes.h"
+
+1449108841 source:c:\users\pchome\desktop\periodo 1\programacao\projeto\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro.h>
+	"funcoes.h"
+
+1449114012 c:\users\pchome\desktop\periodo 1\programacao\projeto\proj\funcoes.h
+
+1449118266 source:c:\users\pchome\desktop\periodo 1\programacao\projeto\proj\funcoes.c
+	<allegro.h>
+	<stdio.h>
+	"funcoes.h"
+
+1449166167 source:c:\users\mariateresa\documents\utfpr\eng\proj\funcoes.c
+	<allegro.h>
+	<stdio.h>
+	"funcoes.h"
+
+1449163870 c:\users\mariateresa\documents\utfpr\eng\proj\funcoes.h
+
+1449112441 source:c:\users\mariateresa\documents\utfpr\eng\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro.h>
+	"funcoes.h"
+
+1449250912 source:c:\users\mariateresa\dropbox\programacao\projfinalsera\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro.h>
+	"funcoes.h"
+
+1449250968 c:\users\mariateresa\dropbox\programacao\projfinalsera\proj\funcoes.h
+
+1449251594 source:c:\users\mariateresa\dropbox\programacao\projfinalsera\proj\funcoes.c
+	<allegro.h>
+	<stdio.h>
+	"funcoes.h"
+
+1449252809 source:c:\users\adil\dropbox\programacao\projfinalsera\proj\funcoes.c
+	<allegro.h>
+	<stdio.h>
+	"funcoes.h"
+
+1449250968 c:\users\adil\dropbox\programacao\projfinalsera\proj\funcoes.h
+
+1449249209 source:c:\users\adil\dropbox\programacao\programacao1\projfinal\projfinalsera\proj\funcoes.c
+	<allegro.h>
+	<stdio.h>
+	"funcoes.h"
+
+1464471844 c:\users\adil\dropbox\programacao\programacao1\projfinal\projfinalsera\proj\funcoes.h
+
+1449710694 source:c:\users\adil\dropbox\programacao\programacao1\projfinal\projfinalsera\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro.h>
+	"funcoes.h"
+
